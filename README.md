@@ -1,15 +1,25 @@
 ### <h1 align="center">Hi 👋, I'm Tabish Raza</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<h3 align="center">Full-Stack Developer building modern web applications with React & Node.js</h3>
 
 <img align = "right" alt = "coding" width ="400" src = "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itabishraza&label=Profile%20views&color=0e75b6&style=flat" alt="itabishraza" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🚀 Building full-stack applications with React, Node.js & Next.js
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about React, MERN Stack & REST APIs
 
-- 📫 How to reach me **tabishraza596@gmail.com**
+- 🌐 Portfolio: tabishraza.com
+
+- 📫 How to reach me **tabishraza.dev@gmail.com**
+
+- ## 🚀 WebSTWK — Digital Solutions
+
+I built **WebSTWK**, a digital solutions platform where I create modern websites, web applications, and custom digital experiences for businesses.
+
+🌐 **Website:** [webstwk.in](https://webstwk.in)
+📂 **Portfolio & Work:** [View on Notion](YOUR_NOTION_LINK)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,11 +57,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itabishraza&show_icons=true&locale=en&layout=compact" alt="itabishraza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itabishraza&show_icons=true&locale=en" alt="itabishraza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itabishraza&" alt="itabishraza" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=itabishraza" alt="GitHub Streak" /></a>
 
 <!--
 **itabishraza/itabishraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
